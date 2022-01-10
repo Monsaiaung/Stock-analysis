@@ -8,4 +8,4 @@ The given data has a long list of stocks. Within it includes a total of 12 stock
 ## Result
 ### Analysis 
 Below are the lines of code with comments/instructions that was written in the refactoring VBA file to do investment analysis. Some of the code were copied from the original filed
-Resources/Codetill1b.png
+![Codetill1b](Resources/Codetill1b.png)
